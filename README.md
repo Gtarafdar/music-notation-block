@@ -37,3 +37,9 @@ If you encounter any issues or have questions about the plugin, please reach out
 
 ### 1.0.0
 * Initial release
+
+* Screenshot
+* 
+![ss of backend](https://github.com/user-attachments/assets/4a2c1b5c-bb30-400d-97d9-0d3375c49795)
+![ss of frontend](https://github.com/user-attachments/assets/174527f0-61c7-4874-956a-4aacd958b85c)
+
